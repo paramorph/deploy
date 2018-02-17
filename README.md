@@ -1,2 +1,2 @@
 # paramorph-deploy
-Deployment scripts for paramorph.github.io
+Deployment scripts for [paramorph.org](http://paramorph.org/)
